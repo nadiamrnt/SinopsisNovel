@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sinopsis Novel</string>
+    <string name="name">Nadia Miranti</string>
+    <string name="email">Contact me : \nnadiamrnt@gmail.com \n08993028323</string>
+    <string name="about">Lahir di Natar, 25 November 2000. \n Hobi membaca novel dan tidur.</string>
+    <string name="cardview_title">Sinopsis Novel</string>
+    <string name="about_title">About Me</string>
+    <string name="like">Like</string>
+    <string name="bio">Undergraduated Informatics Engineering</string>
+</resources>
